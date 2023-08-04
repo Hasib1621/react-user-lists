@@ -1,3 +1,8 @@
+# About this project: 
+This project is about storing user lists. This project is a very simple project made by basic react just for practising the modal.
+
+Hook used: useState only.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
